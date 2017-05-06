@@ -13,7 +13,7 @@ Read this in:
 ## Philosophy
 _All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just want **the best Prusa-style printer possible**._
 
-_I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by _ [toolson](http://www.thingiverse.com/thing:1031144)_): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
+_I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by _ [toolson](http://www.thingiverse.com/thing:1054909)_): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
 
 ## Changes with respect to the [2.5 DXL version by AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
 
@@ -37,7 +37,7 @@ _I'm very interested in problems which may have disturbed P3Steel users in these
 
 7. I've changed the position of some elements in order to lessen the impact of the already listed adds;
 
-8. I've changed the Y-idler element. I've enlarged it a little just to be able to move the bearing fixing hole. The hole was moved down and forward, then its diameter was reduced to 3.2mm (just like toolson did with his printed parts). This way to assemble the mechanical parts of the printer only M3 screws are needed. It's recommended to use a 20 teeth GT2 pulley with a 3mm bore bearing. Otherwise you can also use the 5mm bore version of the bearing, having firstly drilled the hole up to that diameter;
+8. I've changed the Y-idler element. I've enlarged it a little just to be able to move the bearing fixing hole. The hole was moved down and forward, then its diameter was reduced to 3.2mm (just like [toolson](http://www.thingiverse.com/thing:1031144) did with his printed parts). This way to assemble the mechanical parts of the printer only M3 screws are needed. It's recommended to use a 20 teeth GT2 pulley with a 3mm bore bearing. Otherwise you can also use the 5mm bore version of the bearing, having firstly drilled the hole up to that diameter;
 
 
 ## Technical enhancements made on the design:
@@ -66,7 +66,7 @@ _I'm very interested in problems which may have disturbed P3Steel users in these
 ## Filosofia
 _Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di eliminare ciò che non mi sembrava funzionale e di aggiungere elementi di cui sentivo la mancanza. L'obbiettivo non è stato quello di ottimizzare al massimo nè i tempi per il taglio laser (comunque molto contenuti) nè i costi dovuti alla quantità di materiale necessario: mio unico scopo è stato quello di realizzare un telaio più funzionale e meno affetto da problemi che le precedenti versioni hanno mantenuto invariabilmente nel corso degli anni. Il fine è quello di realizzare **la miglior stampante in stile Prusa i3 possibile**._
 
-_Per questo sono molto interessato a possibili problemi riscontrati negli anni dai possessori di questa stampante. Problemi che magari sono stati sistemati temporaneamente (per esempio tramite la realizzazione di pezzi stampati sostitutivi, come per l'Y-idler nel caso delle modifiche realizzate da_ [toolson](http://www.thingiverse.com/thing:1031144)_): sarebbe molto meglio provare ad implementare tali soluzioni in maniera **strutturale** direttamente nel telaio della stampante._
+_Per questo sono molto interessato a possibili problemi riscontrati negli anni dai possessori di questa stampante. Problemi che magari sono stati sistemati temporaneamente (per esempio tramite la realizzazione di pezzi stampati sostitutivi, come per l'Y-idler nel caso delle modifiche realizzate da_ [toolson](http://www.thingiverse.com/thing:1054909)_): sarebbe molto meglio provare ad implementare tali soluzioni in maniera **strutturale** direttamente nel telaio della stampante._
 
 ## Modifiche rispetto alla [versione 2.5 DXL di AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
 
@@ -90,7 +90,7 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
 
 7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento di superficie coperta dettato dalle aggiunte sopraelencate;
 
-8. Modifica dell'elemento "Y-idler", deputato al fissaggio di un cuscinetto radiale di sostegno per la cinghia dell'asse Y. Tale elemento è stato leggermente ingrandito per permettere lo spostamento del foro per il fissaggio del cuscinetto. Quest'ultimo è stato abbassato, spostato leggermente in avanti e ridotto ad un diametro di 3.2mm (in linea con le modifiche proposte da toolson). In questo modo per assemblare la meccanica della stampante è sufficiente la sola tipologia di viti M3. È consigliato l'uso di una puleggia GT2 a 20 denti dotata di cuscinetto con diametro interno di 3mm. In alternativa sarà possibile montare la versione da 5mm di diametro interno, previo allargamento del foro tramite l'uso di un trapano;
+8. Modifica dell'elemento "Y-idler", deputato al fissaggio di un cuscinetto radiale di sostegno per la cinghia dell'asse Y. Tale elemento è stato leggermente ingrandito per permettere lo spostamento del foro per il fissaggio del cuscinetto. Quest'ultimo è stato abbassato, spostato leggermente in avanti e ridotto ad un diametro di 3.2mm (in linea con le modifiche proposte da [toolson](http://www.thingiverse.com/thing:1031144)). In questo modo per assemblare la meccanica della stampante è sufficiente la sola tipologia di viti M3. È consigliato l'uso di una puleggia GT2 a 20 denti dotata di cuscinetto con diametro interno di 3mm. In alternativa sarà possibile montare la versione da 5mm di diametro interno, previo allargamento del foro tramite l'uso di un trapano;
 
 
 ## Miglioramenti tecnici al disegno:
