@@ -4,7 +4,7 @@
 ## INFORMAZIONI PER IL MONTAGGIO:
 
 Questo telaio è pensato per barre filettate/trapezoidali da 8mm di diametro ma supporta anche barre filettate da 5mm.
-Dimensioni barre lisce:
+**_Dimensioni barre lisce:_**
 	- asse Y-350mm
 	- asse Z-330mm
 	- asse X-385mm
@@ -19,7 +19,7 @@ Viti a testa esagonale M3 richieste: 120
 
 ## LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
 
-**_AGGIUNTE
+**_AGGIUNTE_**
 
 1. Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio
  nella parte alta del telaio;
@@ -33,7 +33,7 @@ Viti a testa esagonale M3 richieste: 120
 4. Aggiunta di due elementi di rinforzo per la parte frontale della base
  del telaio e dei relativi fori di fissaggio;
  
-**_ELIMINAZIONI
+**_ELIMINAZIONI_**
 
 5. Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai
  supporti laterali del telaio (entrambi in posizioni scomode, uno dei due
@@ -43,7 +43,7 @@ Viti a testa esagonale M3 richieste: 120
  di supporto delle barre lisce dell'asse Y (a causa della loro posizione troppo
  vicina a quella dei fori introdotti dall'aggiunta 4) );
 
-**_MODIFICHE
+**_MODIFICHE_**
 
 7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
  di superficie coperta dettato dalle aggiunte sopraelencate;
