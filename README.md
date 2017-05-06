@@ -1,21 +1,10 @@
 # P3steel v2.6
 ### A new Prusa i3 Steel frame version
 
-## INFORMAZIONI PER IL MONTAGGIO:
+## FILOSOFIA
+_Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di eliminare ciò che non mi sembrava funzionale e di aggiungere elementi di cui sentivo la mancanza. L'obbiettivo non è stato quello di ottimizzare al massimo nè i tempi per il taglio laser (comunque molto contenuti) nè i costi dovuti alla quantità di materiale necessario: mio unico scopo è stato quello di realizzare un telaio più funzionale e meno affetto da problemi che le precedenti versioni hanno mantenuto invariabilmente nel corso degli anni. Il fine è quello di realizzare la miglior stampante in stile Prusa i3 possibile.
 
-Questo telaio è pensato per barre filettate/trapezoidali da 8mm di diametro ma supporta anche barre filettate da 5mm.
-**_Dimensioni barre lisce:_**
-	- asse Y-350mm
-	- asse Z-330mm
-	- asse X-385mm
-
-Dimensione minima lastra:
-Spessore-3mm
-Lunghezza-849,23mm
-Larghezza-400,00mm
-
-Viti a testa esagonale M3 richieste: 120
-
+Per questo sono molto interessato a possibili problemi riscontrati negli anni dai possessori di questa stampante. Problemi che magari sono stati sistemati temporaneamente (per esempio tramite la realizzazione di pezzi stampati sostitutivi, come per l'Y-idler nel caso delle modifiche realizzate da toolson): tali soluzioni sarebbe meglio provare ad implementarle in maniera strutturale direttamente nel telaio della stampante._
 
 ## LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
 
