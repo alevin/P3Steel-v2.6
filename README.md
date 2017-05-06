@@ -14,7 +14,7 @@ _Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di
 
 _Per questo sono molto interessato a possibili problemi riscontrati negli anni dai possessori di questa stampante. Problemi che magari sono stati sistemati temporaneamente (per esempio tramite la realizzazione di pezzi stampati sostitutivi, come per l'Y-idler nel caso delle modifiche realizzate da_ [toolson](http://www.thingiverse.com/thing:1031144)_): sarebbe molto meglio provare ad implementare tali soluzioni in maniera **strutturale** direttamente nel telaio della stampante._
 
-## Modifiche rispetto alla versione 2.5 DXL di AndrewBCN:
+## Modifiche rispetto alla [versione 2.5 DXL di AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
 
 ### **_AGGIUNTE_**
 
