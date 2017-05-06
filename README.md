@@ -21,35 +21,34 @@ Viti a testa esagonale M3 richieste: 120
 
 **_AGGIUNTE
 
-1)Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio
+1. Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio
  nella parte alta del telaio;
 
-2)Aggiunta di quattro elementi per bloccare le barre lisce dell'asse Y
+2. Aggiunta di quattro elementi per bloccare le barre lisce dell'asse Y
  e dei fori per fissarli in corrispondenza dei punti di appoggio delle barre lisce;
 
-3)Aggiunta di due elementi per bloccare le barre lisce dell'asse Z
+3. Aggiunta di due elementi per bloccare le barre lisce dell'asse Z
  e dei fori per fissarli negli elementi "Z-Top";
 
-4)Aggiunta di due elementi di rinforzo per la parte frontale della base
+4. Aggiunta di due elementi di rinforzo per la parte frontale della base
  del telaio e dei relativi fori di fissaggio;
-
-
+ 
 **_ELIMINAZIONI
 
-5)Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai
+5. Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai
  supporti laterali del telaio (entrambi in posizioni scomode, uno dei due
  viene reso inutile dalla presenza dell'alimentatore che ne preclude l'accesso);
 
-6)Eliminazione di delle coppie più esterne di fori verticali in entrambi gli elementi
+6. Eliminazione di delle coppie più esterne di fori verticali in entrambi gli elementi
  di supporto delle barre lisce dell'asse Y (a causa della loro posizione troppo
  vicina a quella dei fori introdotti dall'aggiunta 4) );
 
 **_MODIFICHE
 
-7)Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
+7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
  di superficie coperta dettato dalle aggiunte sopraelencate;
 
-8)Modifica dell'elemento "Y-idler", deputato al fissaggio di un cuscinetto radiale
+8. Modifica dell'elemento "Y-idler", deputato al fissaggio di un cuscinetto radiale
  di sostegno per la cinghia dell'asse Y. Tale elemento è stato leggermente ingrandito
  per permettere lo spostamento del foro per il fissaggio del cuscinetto. Quest'ultimo
  è stato abbassato, spostato leggermente in avanti e ridotto ad un diametro di 3.2mm
@@ -62,23 +61,23 @@ Viti a testa esagonale M3 richieste: 120
 
 ## LISTA MODIFICHE TECNICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
 
-1)Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed
+1. Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed
  unico layer "0";
 
-2)Sono stati risolti numerosi problemi legati a linee che non erano correttamente
+2. Sono stati risolti numerosi problemi legati a linee che non erano correttamente
  chiuse;
 
-3)Sono state eliminate alcune linee inutili in quanto identiche e sovrapposte
+3. Sono state eliminate alcune linee inutili in quanto identiche e sovrapposte
  oppure in quanto a due a due allineate e quindi sostituibili da un'unica
  linea più lunga;
 
-4)Tutte le linee chiuse sono state convertite in polilinee;
+4. Tutte le linee chiuse sono state convertite in polilinee;
 
-5)Ogni pezzo è stato racchiuso in un blocco che ne porta un nome sintetico in
+5. Ogni pezzo è stato racchiuso in un blocco che ne porta un nome sintetico in
  lingua inglese;
 
-6)Il disegno è stato salvato e convertito nei seguenti formati:
-    a)DXF;
-    b)DWG;
-    c)PDF;
-    d)PNG;
+6. Il disegno è stato salvato e convertito nei seguenti formati:
+    - DXF;
+    - DWG;
+    - PDF;
+    - PNG;
