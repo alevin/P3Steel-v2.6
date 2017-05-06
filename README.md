@@ -1,12 +1,12 @@
 # P3steel v2.6
 ### A new Prusa i3 Steel frame version
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Read this in:
 - [Italian](https://github.com/iosonopersia/p3steel-v2-6/blob/master/README.md#italiano)
-- English (sorry, not ready yet!)
+- [English](https://github.com/iosonopersia/p3steel-v2-6/blob/master/README.md#english)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 # Italiano
 
@@ -19,29 +19,71 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
 
 ### **_AGGIUNTE_**
 
-1. Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio
- nella parte alta del telaio;
+1. Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio nella parte alta del telaio;
 
-2. Aggiunta di quattro elementi per bloccare le barre lisce dell'asse Y
- e dei fori per fissarli in corrispondenza dei punti di appoggio delle barre lisce;
+2. Aggiunta di quattro elementi per bloccare le barre lisce dell'asse Y e dei fori per fissarli in corrispondenza dei punti di appoggio delle barre lisce;
 
-3. Aggiunta di due elementi per bloccare le barre lisce dell'asse Z
- e dei fori per fissarli negli elementi "Z-Top";
+3. Aggiunta di due elementi per bloccare le barre lisce dell'asse Z e dei fori per fissarli negli elementi "Z-Top";
 
-4. Aggiunta di due elementi di rinforzo per la parte frontale della base
- del telaio e dei relativi fori di fissaggio;
+4. Aggiunta di due elementi di rinforzo per la parte frontale della base del telaio e dei relativi fori di fissaggio;
  
 ### **_ELIMINAZIONI_**
 
-5. Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai
- supporti laterali del telaio (entrambi in posizioni scomode, uno dei due
- viene reso inutile dalla presenza dell'alimentatore che ne preclude l'accesso);
+5. Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai supporti laterali del telaio (entrambi in posizioni scomode, uno dei due viene reso inutile dalla presenza dell'alimentatore che ne preclude l'accesso);
 
-6. Eliminazione di delle coppie più esterne di fori verticali in entrambi gli elementi
- di supporto delle barre lisce dell'asse Y (a causa della loro posizione troppo
- vicina a quella dei fori introdotti dall'aggiunta 4) );
+6. Eliminazione delle coppie più esterne di fori verticali in entrambi gli elementi di supporto delle barre lisce dell'asse Y (a causa della loro posizione troppo vicina a quella dei fori introdotti dall'aggiunta 4) );
 
 ### **_MODIFICHE_**
+
+7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento di superficie coperta dettato dalle aggiunte sopraelencate;
+
+8. Modifica dell'elemento "Y-idler", deputato al fissaggio di un cuscinetto radiale di sostegno per la cinghia dell'asse Y. Tale elemento è stato leggermente ingrandito per permettere lo spostamento del foro per il fissaggio del cuscinetto. Quest'ultimo è stato abbassato, spostato leggermente in avanti e ridotto ad un diametro di 3.2mm (in linea con le modifiche proposte da toolson). In questo modo per assemblare la meccanica della stampante è sufficiente la sola tipologia di viti M3. È consigliato l'uso di una puleggia GT2 a 20 denti dotata di cuscinetto con diametro interno di 3mm. In alternativa sarà possibile montare la versione da 5mm di diametro interno, previo allargamento del foro tramite l'uso di un trapano;
+
+
+## Miglioramenti tecnici al disegno:
+
+1. Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed unico layer "0";
+
+2. Sono stati risolti numerosi problemi legati a linee che non erano correttamente chiuse;
+
+3. Sono state eliminate alcune linee inutili in quanto identiche e sovrapposte oppure in quanto a due a due allineate e quindi sostituibili da un'unica linea più lunga;
+
+4. Tutte le linee chiuse sono state convertite in polilinee;
+
+5. Ogni pezzo è stato racchiuso in un blocco che ne porta un nome sintetico in lingua inglese;
+
+6. Il disegno è stato salvato e convertito nei seguenti formati:
+    - DXF;
+    - DWG;
+    - PDF;
+    - PNG.
+
+#English
+
+## Philosophy
+_All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just want **the best Prusa-style printer possible**._
+
+_I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by _ [toolson](http://www.thingiverse.com/thing:1031144)_): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
+
+## Changes respect to the [2.5 DXL version by AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
+
+### **_ADDS_**
+
+1. Two spool holder brackets added with their respective fixing holes;
+
+2. Four elements added to block Y-axis rods (with their respective fixing holes);
+
+3. Two elements added to block Z-axis rods (with their respective fixing holes);
+
+4. Two elements added to reinforce the frame base (with their respective fixing holes);
+ 
+### **_DELETIONS_**
+
+5. Both fixing holes for NEMA17 motors in the lateral panels were eliminated (they both were in rather uncomfortable positions, moreover one of them turned out to be useless because of the mounting position of the power supply which covers it almost completely);
+
+6. Some holes in the front and back base panel were eliminated because of them being too close to the fixing holes previously added (see 4) );
+
+### **_MODIFICATIONS_**
 
 7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
  di superficie coperta dettato dalle aggiunte sopraelencate;
@@ -57,7 +99,7 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
  previo allargamento del foro tramite l'uso di un trapano;
 
 
-## Miglioramenti tecnici al disegno:
+## Technical enhancements made on the design:
 
 1. Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed
  unico layer "0";
@@ -79,3 +121,4 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
     - DWG;
     - PDF;
     - PNG;
+    
