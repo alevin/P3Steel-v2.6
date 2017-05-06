@@ -3,14 +3,15 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-## FILOSOFIA
+
+## Filosofia
 _Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di eliminare ciò che non mi sembrava funzionale e di aggiungere elementi di cui sentivo la mancanza. L'obbiettivo non è stato quello di ottimizzare al massimo nè i tempi per il taglio laser (comunque molto contenuti) nè i costi dovuti alla quantità di materiale necessario: mio unico scopo è stato quello di realizzare un telaio più funzionale e meno affetto da problemi che le precedenti versioni hanno mantenuto invariabilmente nel corso degli anni. Il fine è quello di realizzare **la miglior stampante in stile Prusa i3 possibile**._
 
 _Per questo sono molto interessato a possibili problemi riscontrati negli anni dai possessori di questa stampante. Problemi che magari sono stati sistemati temporaneamente (per esempio tramite la realizzazione di pezzi stampati sostitutivi, come per l'Y-idler nel caso delle modifiche realizzate da_ [toolson](http://www.thingiverse.com/thing:1031144)_): sarebbe molto meglio provare ad implementare tali soluzioni in maniera **strutturale** direttamente nel telaio della stampante._
 
-## LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
+## Modifiche rispetto alla versione 2.5 DXL di AndrewBCN:
 
-**_AGGIUNTE_**
+### **_AGGIUNTE_**
 
 1. Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio
  nella parte alta del telaio;
@@ -24,7 +25,7 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
 4. Aggiunta di due elementi di rinforzo per la parte frontale della base
  del telaio e dei relativi fori di fissaggio;
  
-**_ELIMINAZIONI_**
+### **_ELIMINAZIONI_**
 
 5. Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai
  supporti laterali del telaio (entrambi in posizioni scomode, uno dei due
@@ -34,7 +35,7 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
  di supporto delle barre lisce dell'asse Y (a causa della loro posizione troppo
  vicina a quella dei fori introdotti dall'aggiunta 4) );
 
-**_MODIFICHE_**
+### **_MODIFICHE_**
 
 7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
  di superficie coperta dettato dalle aggiunte sopraelencate;
@@ -50,7 +51,7 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
  previo allargamento del foro tramite l'uso di un trapano;
 
 
-## LISTA MODIFICHE TECNICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
+## Miglioramenti tecnici al disegno:
 
 1. Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed
  unico layer "0";
