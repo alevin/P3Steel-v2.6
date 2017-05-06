@@ -2,7 +2,7 @@
 A new Prusa i3 Steel frame version
 
 
-
+>
   _____ ____   _____ _            _        ___     __  
  |  __ \___ \ / ____| |          | |      |__ \   / /  
  | |__) |__) | (___ | |_ ___  ___| | __   __ ) | / /_  
@@ -23,9 +23,9 @@ INFORMAZIONI PER IL MONTAGGIO:
 
 Questo telaio è pensato per barre filettate/trapezoidali da 8mm di diametro.
 Dimensioni barre lisce:
-	asse Y-350mm
-	asse Z-330mm
-	asse X-385mm
+	- asse Y-350mm
+	- asse Z-330mm
+	- asse X-385mm
 
 Dimensione minima lastra:
 Spessore-3mm
