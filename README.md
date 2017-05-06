@@ -13,7 +13,7 @@ Read this in:
 ## Philosophy
 _All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just want **the best Prusa-style printer possible**._
 
-_I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by _ [toolson](http://www.thingiverse.com/thing:1054909)_): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
+_I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by [toolson](http://www.thingiverse.com/thing:1054909)): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
 
 ## Changes with respect to the [2.5 DXL version by AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
 
@@ -46,9 +46,7 @@ _I'm very interested in problems which may have disturbed P3Steel users in these
 
 2. A lot of problems caused by non-correctly closed lines were fixed;
 
-3. Sono state eliminate alcune linee inutili in quanto identiche e sovrapposte
- oppure in quanto a due a due allineate e quindi sostituibili da un'unica
- linea più lunga;
+3. Some useless lines were deleted as they were identical and overlayed or lined up together (and for this reason they were substitued by a single longer line);
 
 4. All closed lines were converted into polylines;
 
