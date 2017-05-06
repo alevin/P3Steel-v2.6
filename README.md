@@ -1,8 +1,13 @@
 # P3steel v2.6
 ### A new Prusa i3 Steel frame version
 
+Read this in:
+- [Italian]()
+- English (sorry, not ready yet!)
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+# Italiano
 
 ## Filosofia
 _Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di eliminare ciò che non mi sembrava funzionale e di aggiungere elementi di cui sentivo la mancanza. L'obbiettivo non è stato quello di ottimizzare al massimo nè i tempi per il taglio laser (comunque molto contenuti) nè i costi dovuti alla quantità di materiale necessario: mio unico scopo è stato quello di realizzare un telaio più funzionale e meno affetto da problemi che le precedenti versioni hanno mantenuto invariabilmente nel corso degli anni. Il fine è quello di realizzare **la miglior stampante in stile Prusa i3 possibile**._
