@@ -1,27 +1,9 @@
 # p3steel-v2-6
-A new Prusa i3 Steel frame version
+### A new Prusa i3 Steel frame version
 
+## INFORMAZIONI PER IL MONTAGGIO:
 
->
-  _____ ____   _____ _            _        ___     __  
- |  __ \___ \ / ____| |          | |      |__ \   / /  
- | |__) |__) | (___ | |_ ___  ___| | __   __ ) | / /_  
- |  ___/|__ < \___ \| __/ _ \/ _ \ | \ \ / // / | '_ \ 
- | |    ___) |____) | ||  __/  __/ |  \ V // /_ | (_) |
- |_|   |____/|_____/ \__\___|\___|_|   \_/|____(_)___/ 
-                                                       
- *Progetto realizzato da Simone Persiani (iosonopersia)*
-________________________________
-BOM:                            |
-http://scheuten.me/?p=745       |
-INFO TOOLSON:                   |
-http://scheuten.me/?page_id=708 |
---------------------------------
-
-###################################################################################
-INFORMAZIONI PER IL MONTAGGIO:
-
-Questo telaio è pensato per barre filettate/trapezoidali da 8mm di diametro.
+Questo telaio è pensato per barre filettate/trapezoidali da 8mm di diametro ma supporta anche barre filettate da 5mm.
 Dimensioni barre lisce:
 	- asse Y-350mm
 	- asse Z-330mm
@@ -35,10 +17,9 @@ Larghezza-400,00mm
 Viti a testa esagonale M3 richieste: 120
 
 
-###################################################################################
-LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
+## LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
 
-##AGGIUNTE##
+**_AGGIUNTE
 
 1)Aggiunta di due braccetti portabobine e dei fori per il loro fissaggio
  nella parte alta del telaio;
@@ -53,7 +34,7 @@ LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
  del telaio e dei relativi fori di fissaggio;
 
 
-##ELIMINAZIONI##
+**_ELIMINAZIONI
 
 5)Eliminazione dei fori necessari al fissaggio di due motori NEMA17 ai
  supporti laterali del telaio (entrambi in posizioni scomode, uno dei due
@@ -63,7 +44,7 @@ LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
  di supporto delle barre lisce dell'asse Y (a causa della loro posizione troppo
  vicina a quella dei fori introdotti dall'aggiunta 4) );
 
-##MODIFICHE##
+**_MODIFICHE
 
 7)Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
  di superficie coperta dettato dalle aggiunte sopraelencate;
@@ -79,8 +60,7 @@ LISTA MODIFICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
  previo allargamento del foro tramite l'uso di un trapano;
 
 
-###################################################################################
-LISTA MODIFICHE TECNICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
+## LISTA MODIFICHE TECNICHE AL DISEGNO ORIGINALE (versione 2.5 DXL di AndrewBCN):
 
 1)Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed
  unico layer "0";
