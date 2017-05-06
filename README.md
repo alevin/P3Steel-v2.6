@@ -65,7 +65,7 @@ _All changes committed to the pre-existent design have been made with the purpos
 
 _I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by _ [toolson](http://www.thingiverse.com/thing:1031144)_): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
 
-## Changes respect to the [2.5 DXL version by AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
+## Changes with respect to the [2.5 DXL version by AndrewBCN](http://reprap.org/wiki/P3Steel#Frame_versions):
 
 ### **_ADDS_**
 
@@ -85,38 +85,26 @@ _I'm very interested in problems which may have disturbed P3Steel users in these
 
 ### **_MODIFICATIONS_**
 
-7. Modifica della posizione di alcuni elementi allo scopo di minimizzare l'aumento
- di superficie coperta dettato dalle aggiunte sopraelencate;
+7. I've changed the position of some elements in order to lessen the impact of the already listed adds;
 
-8. Modifica dell'elemento "Y-idler", deputato al fissaggio di un cuscinetto radiale
- di sostegno per la cinghia dell'asse Y. Tale elemento è stato leggermente ingrandito
- per permettere lo spostamento del foro per il fissaggio del cuscinetto. Quest'ultimo
- è stato abbassato, spostato leggermente in avanti e ridotto ad un diametro di 3.2mm
- (in linea con le modifiche proposte da toolson). In questo modo per assemblare la
- meccanica della stampante è sufficiente la sola tipologia di viti M3. È consigliato
- l'uso di una puleggia GT2 a 20 denti dotata di cuscinetto con diametro interno di
- 3mm. In alternativa sarà possibile montare la versione da 5mm di diametro interno,
- previo allargamento del foro tramite l'uso di un trapano;
+8. I've changed the Y-idler element. I've enlarged it a little just to be able to move the bearing fixing hole. The hole was moved down and forward, then its diameter was reduced to 3.2mm (just like toolson did with his printed parts). This way to assemble the mechanical parts of the printer only M3 screws are needed. It's recommended to use a 20 teeth GT2 pulley with a 3mm bore bearing. Otherwise you can also use the 5mm bore version of the bearing, having firstly drilled the hole up to that diameter;
 
 
 ## Technical enhancements made on the design:
 
-1. Tutti gli elementi presenti nel disegno sono stati riportati sullo stesso ed
- unico layer "0";
+1. All the elements in the design were put in the same (and only) "0" layer;
 
-2. Sono stati risolti numerosi problemi legati a linee che non erano correttamente
- chiuse;
+2. A lot of problems caused by non-correctly closed lines were fixed;
 
 3. Sono state eliminate alcune linee inutili in quanto identiche e sovrapposte
  oppure in quanto a due a due allineate e quindi sostituibili da un'unica
  linea più lunga;
 
-4. Tutte le linee chiuse sono state convertite in polilinee;
+4. All closed lines were converted into polylines;
 
-5. Ogni pezzo è stato racchiuso in un blocco che ne porta un nome sintetico in
- lingua inglese;
+5. Every piece was converted to a block which has a sintetized name;
 
-6. Il disegno è stato salvato e convertito nei seguenti formati:
+6. The design was saved and exported in the following formats:
     - DXF;
     - DWG;
     - PDF;
