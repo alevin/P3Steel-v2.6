@@ -58,7 +58,7 @@ _Per questo sono molto interessato a possibili problemi riscontrati negli anni d
     - PDF;
     - PNG.
 
-#English
+# English
 
 ## Philosophy
 _All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just want **the best Prusa-style printer possible**._
