@@ -11,7 +11,7 @@ Read this in:
 # English
 
 ## Philosophy
-_All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just want **the best Prusa-style printer possible**._
+_All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just wanted **the best Prusa-style frame possible**: the one which has everything it's needed._
 
 _I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by [toolson](http://www.thingiverse.com/thing:1054909)): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
 
@@ -62,7 +62,7 @@ _I'm very interested in problems which may have disturbed P3Steel users in these
 # Italiano
 
 ## Filosofia
-_Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di eliminare ciò che non mi sembrava funzionale e di aggiungere elementi di cui sentivo la mancanza. L'obbiettivo non è stato quello di ottimizzare al massimo nè i tempi per il taglio laser (comunque molto contenuti) nè i costi dovuti alla quantità di materiale necessario: mio unico scopo è stato quello di realizzare un telaio più funzionale e meno affetto da problemi che le precedenti versioni hanno mantenuto invariabilmente nel corso degli anni. Il fine è quello di realizzare **la miglior stampante in stile Prusa i3 possibile**._
+_Le modifiche apportate al disegno pre-esistente sono state fatte nell'ottica di eliminare ciò che non mi sembrava funzionale e di aggiungere elementi di cui sentivo la mancanza. L'obbiettivo non è stato quello di ottimizzare al massimo nè i tempi per il taglio laser (comunque molto contenuti) nè i costi dovuti alla quantità di materiale necessario: mio unico scopo è stato quello di realizzare un telaio più funzionale e meno affetto da problemi che le precedenti versioni hanno mantenuto invariabilmente nel corso degli anni. Il fine è quello di realizzare **il miglior telaio per Prusa i3 possibile**: quella che contiene tutto ciò di cui c'è bisogno._
 
 _Per questo sono molto interessato a possibili problemi riscontrati negli anni dai possessori di questa stampante. Problemi che magari sono stati sistemati temporaneamente (per esempio tramite la realizzazione di pezzi stampati sostitutivi, come per l'Y-idler nel caso delle modifiche realizzate da [toolson](http://www.thingiverse.com/thing:1054909)): sarebbe molto meglio provare ad implementare tali soluzioni in maniera **strutturale** direttamente nel telaio della stampante._
 
