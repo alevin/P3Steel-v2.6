@@ -1,8 +1,18 @@
-# P3steel v2.6
+# P3Steel v2.6
 ### A new Prusa i3 Steel frame version
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+Hi, welcome in the P3Steel v2.6 repository. Here you can find my newly created version of the P3Steel frame. If you think it is the right frame for you, just download it and have it laser cutted; otherwise please tell me what would you modify in my project, I'll be very interested in your opinion!
+
+## cad
+In this folder you'll find all the ready-to-be-made designs, both in dxf and dwg formats.
+
+## blocks
+Here, divided in subfolders, you'll find all the building blocks of the frame so that it's possible to modify one independently from the others.
+
+## img
+This folder contains images and photos of the frame.
 
 ## Philosophy
 _All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just wanted **the best Prusa-style frame possible**: the one which has everything it's needed._
