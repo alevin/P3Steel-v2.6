@@ -5,7 +5,7 @@
 
 
 ## Philosophy
-_All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just want **the best Prusa-style printer possible**._
+_All changes committed to the pre-existent design have been made with the purpose of avoiding non-functional things and of adding elements I felt were missing. Neither optimizing laser cut times nor cutting down material costs was my priority: my only goal was to make a more functional frame, trying to solve old problems which have been affecting the P3Steel project for years. I just wanted **the best Prusa-style frame possible**: the one which has everything it's needed._
 
 _I'm very interested in problems which may have disturbed P3Steel users in these years. Someone may have already tried quick fixing them (for example by making printed parts like the Y-idler made by [toolson](http://www.thingiverse.com/thing:1054909)): it would be much better to try implementing those solutions in a more **structural** way, directly in the printer frame._
 
@@ -53,4 +53,3 @@ _I'm very interested in problems which may have disturbed P3Steel users in these
     - DWG;
     - PDF;
     - PNG.
-    
