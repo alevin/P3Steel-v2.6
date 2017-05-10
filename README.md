@@ -17,4 +17,4 @@ Here, divided in subfolders, you'll find all the building blocks of the frame so
 ### img
 This folder contains images and photos of the frame.
 
-## You can find a lot of useful information in thewiki of this repository: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
+## You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
