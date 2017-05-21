@@ -11,7 +11,7 @@ Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly creat
 ## Notice:
 - The frame has to be cut from a **3mm steel** sheet. It's not possible to assemble the frame if it has not the right tickness (repetita iuvant: 3mm steel sheet!).
 - All the parts of the frame in the design should be **re-positioned** by the one who will work with the laser cutter. This is why I've positioned all the parts like that (this way it's simpler to understand what should be saved and what should be discarded). Let him do that job!
-- The one who works with the laser cutter probably will ask you for the **.DWG** format.
+- The one who works with the laser cutter probably will ask you for the **.DWG** format: you'll just have to use a program to convert .dxf into .dwg...
 
 ***
 
