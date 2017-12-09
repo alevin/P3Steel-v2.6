@@ -1,8 +1,5 @@
 # P3Steel v2.6
 
-## Warning!!!
-> I haven't built this frame yet, but I've already sent the cad file to a factory which has a laser cutter: I'll can guarantee that the design is correct __*only*__ when I'll have all the pieces in my hands. If you're interested in assembling this frame, please wait some days before laser cut it.
-
 Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly created version of the P3Steel frame. If you think it is the right frame for you, just download it and laser cut it; otherwise please tell me what would you modify in my project, I'll be very interested in your opinion!
 ### **THIS IS A MODULAR DESIGN: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks)**
 ### **[Here's the BOM made by toolson](http://scheuten.me/?p=745)**
