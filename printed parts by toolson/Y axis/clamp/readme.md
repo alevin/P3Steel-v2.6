@@ -5,7 +5,7 @@ You can choose between "Y LM8UU bearing clamp.stl", "Y bronce clamp.stl" and "Y 
 For "Y LM8UU bearing clamp.stl" you will need 4 LM8UU linear bearings:
 - inner diameter= 8mm
 - outer diameter= 15mm
-- length= 25mm
+- length= 24mm
 
 For "Y bronce clamps.stl" you will need 4 sinterized bronce bushings:
 - inner diameter= 8mm
