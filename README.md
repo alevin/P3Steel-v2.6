@@ -24,9 +24,6 @@ This folder contains images and photos of the frame.
 ### printed parts by toolson
 I will collect here the set of STL files needed for the printed parts of this printer. They were made by [toolson](https://www.thingiverse.com/toolson/about). Minor parts were made by [scarou](https://www.thingiverse.com/scarou/about) and [schlotzz](https://www.thingiverse.com/schlotzz/about).
 
-### work_in_progress
-Here you will find experimental changes in the design. Find out more in the [**work_in_progress**](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Work-in-progress) wiki page!
-
 ***
 
 ## You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
