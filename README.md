@@ -4,8 +4,19 @@ Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly creat
 
 ***
 ## You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
-### **THIS IS A MODULAR DESIGN: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks)**
+
 ### **[Here's the BOM made by toolson](http://scheuten.me/?p=745)**
+
+### Downloads
+**THIS IS A MODULAR DESIGN: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks).**
+This means that you can make your own design by yourself importing every block you need in a DXF file.
+
+I've prepared four premade designs if you want a ready-to-cut file, so you just have to choose between one of the following links:
+
+|*Premade designs*|4 points-only bed|3 or 4 points bed|
+|:---:|:---:|:---:|
+|**Arduino Mega mount zone WITHOUT hole**|(coming soon)|(coming soon)|
+|**Arduino Mega mount zone WITH hole**|(coming soon)|(coming soon)|
 ***
 
 ## Notice:
