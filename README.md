@@ -2,21 +2,21 @@
 
 Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly created version of the P3Steel frame. If you think it is the right frame for you, just download it and laser cut it; otherwise please tell me what would you modify in my project, I'll be very interested in your opinion!
 
+### You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
+
 ***
-## You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
 
-### **[Here's the BOM made by toolson](http://scheuten.me/?p=745)**
-
-### Downloads
+## Downloads
 **THIS IS A MODULAR DESIGN: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks).**
 This means that you can make your own design by yourself importing every block you need in a DXF file.
 
-I've prepared four premade designs if you want a ready-to-cut file, so you just have to choose between one of the following links:
+I've prepared four premade designs if you want a ready-to-cut file, so you just have to choose between one of the following links (after clicking Download, save the browser page that gets opened on your PC):
 
 |*Premade designs*|4 points-only bed|3 or 4 points bed|
 |:---:|:---:|:---:|
-|**Arduino Mega mount zone WITHOUT hole**|(coming soon)|(coming soon)|
-|**Arduino Mega mount zone WITH hole**|(coming soon)|(coming soon)|
+|**Arduino Mega mount zone WITHOUT hole**|![Download](https://raw.githubusercontent.com/iosonopersia/P3Steel-v2.6/master/cad/P3Steel_2_6_00.dxf)|![Download](https://raw.githubusercontent.com/iosonopersia/P3Steel-v2.6/master/cad/P3Steel_2_6_10.dxf)|
+|**Arduino Mega mount zone WITH hole**|![Download](https://raw.githubusercontent.com/iosonopersia/P3Steel-v2.6/master/cad/P3Steel_2_6_01.dxf)|![Download](https://raw.githubusercontent.com/iosonopersia/P3Steel-v2.6/master/cad/P3Steel_2_6_11.dxf)|
+
 ***
 
 ## Notice:
@@ -33,6 +33,9 @@ Here, divided in subfolders, you'll find all the building blocks of the frame so
 
 ### printed parts
 I will collect here the set of STL files needed for the printed parts of this printer. They were made by [toolson](https://www.thingiverse.com/toolson/about). Minor parts were made by [scarou](https://www.thingiverse.com/scarou/about) and [schlotzz](https://www.thingiverse.com/schlotzz/about).
+
+### cad
+Here you will find premade designs ready-to-be-cut. Their download links are available in this page.
 
 ### img
 This folder contains images and photos of the frame.
