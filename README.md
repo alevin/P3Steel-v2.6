@@ -2,12 +2,11 @@
 
 Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly created version of the P3Steel frame. If you think it is the right frame for you, just download it and laser cut it; otherwise please tell me what would you modify in my project, I'll be very interested in your opinion!
 
-### You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!
-
+**You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!**
 ***
-
 ## Downloads
-**THIS IS A MODULAR DESIGN: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks).**
+P3Steel v2.6 IS A MODULAR DESIGN: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks).
+
 This means that you can make your own design by yourself importing every block you need in a DXF file.
 
 I've prepared four premade designs if you want a ready-to-cut file, so you just have to choose between one of the following links (after clicking Download, save the browser page that gets opened on your PC):
