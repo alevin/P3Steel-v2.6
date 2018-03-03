@@ -5,6 +5,11 @@ Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly creat
 **You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!**
 ***
 ## Downloads
+
+### Printed parts
+[Download](https://github.com/iosonopersia/P3Steel-v2.6/raw/master/cad/printed_parts.zip)
+
+### Frame
 > P3Steel v2.6 is a modular project: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks) to find out more. This means that you can make your own design by yourself importing every block you need in a DXF file.
 
 I've prepared four premade designs if you want a ready-to-cut file, so you just have to choose between one of the following links (after clicking Download, save the browser page that gets opened on your PC):
