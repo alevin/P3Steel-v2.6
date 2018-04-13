@@ -5,6 +5,11 @@ Hi, welcome in the **P3Steel v2.6** repository. Here you can find my newly creat
 **You can find a lot of useful information in the wiki pages: just [click here](https://github.com/iosonopersia/P3Steel-v2.6/wiki)!**
 ***
 ## Downloads
+
+### Printed parts
+[Download](https://github.com/iosonopersia/P3Steel-v2.6/raw/master/cad/printed_parts.zip)
+
+### Frame
 > P3Steel v2.6 is a modular project: see the [Blocks wiki page](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Blocks) to find out more. This means that you can make your own design by yourself importing every block you need in a DXF file.
 
 I've prepared four premade designs if you want a ready-to-cut file, so you just have to choose between one of the following links (after clicking Download, save the browser page that gets opened on your PC):
@@ -29,13 +34,10 @@ I've prepared four premade designs if you want a ready-to-cut file, so you just 
 Here, divided in subfolders, you'll find all the building blocks of the frame so that it's possible to modify one independently from the others. This makes remixing this project a lot simpler than what it took to me...
 
 ### printed parts
-I will collect here the set of STL files needed for the printed parts of this printer. They were made by [toolson](https://www.thingiverse.com/toolson/about). Minor parts were made by [scarou](https://www.thingiverse.com/scarou/about) and [schlotzz](https://www.thingiverse.com/schlotzz/about).
+I will collect here the set of STL files needed for the printed parts of this printer. They were mainly made by [toolson](https://www.thingiverse.com/toolson/about). Minor parts were made by other Thingiverse users; I have made/modified some parts too. More printed parts info can be found [here](https://github.com/iosonopersia/P3Steel-v2.6/wiki/Printed-parts).
 
 ### cad
 Here you will find premade designs ready-to-be-cut. Their download links are available in this page.
-
-### img
-This folder contains images and photos of the frame.
 
 ***
 
